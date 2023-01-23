@@ -2,7 +2,6 @@ import tkinter as tk
 import time
 from datetime import datetime
 from tkcalendar import *
-import numpy as np
 import tracemalloc
 import os,psutil
 
